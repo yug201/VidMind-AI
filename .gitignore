@@ -10,7 +10,7 @@ venv/
 __pycache__/
 *.py[cod]
 
-# Generated project data (can become very large)
+# Generated project data 
 downloads/
 vector_db/
 
