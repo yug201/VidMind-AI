@@ -1,0 +1,23 @@
+# API keys and local settings
+.env
+.env.*
+!.env.example
+
+# Python virtual environments and cache
+venv/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated project data (can become very large)
+downloads/
+vector_db/
+
+# Streamlit local secrets
+.streamlit/secrets.toml
+
+# Editor and Windows files
+.vscode/
+desktop.ini
+Thumbs.db
